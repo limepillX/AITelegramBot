@@ -1,0 +1,5 @@
+{
+    "start": "Hello, stranger! 👋\nI am a bot that allows you to communicate with various neural networks, such as GPT4 and DALLE 3 🤖",
+    "ask_chatgpt": "Write me a text, and I will try to respond to it using ChatGPT 4. 🤖",
+    "ask_dalle": "Send me a text description, and I will ask DALLE 3 to draw something for you. 🎨"
+}
