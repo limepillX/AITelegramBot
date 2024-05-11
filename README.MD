@@ -1,3 +1,11 @@
+<p align="center" id="readme-top">
+    <img src="https://img.shields.io/github/license/limepillX/AITelegramBot" alt="License">
+    <img src="https://img.shields.io/github/last-commit/limepillX/AITelegramBot" alt="Last commit">
+    <img src="https://img.shields.io/github/repo-size/limepillX/AITelegramBot" alt="Repo size">
+    <img src="https://img.shields.io/github/issues/limepillX/AITelegramBot" alt="Issues">
+    <img src="https://img.shields.io/github/stars/limepillX/AITelegramBot" alt="Stars">
+    <img src="https://img.shields.io/github/forks/limepillX/AITelegramBot" alt="Forks">
+
 # Telegram bot with OpenAI models (GPT, DALL-E)
 
 This is a Telegram bot that uses OpenAI models to generate text and images. It uses the OpenAI API to interact with the models.
